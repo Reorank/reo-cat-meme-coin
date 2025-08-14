@@ -45,7 +45,7 @@ const ChooseSection = () => {
 
       <div className="container">
         <div className="ico_heading_block text-center mt-lg-4" data-aos="fade-up" data-aos-duration="600">
-          <h2 className="heading_text mb-0">Why You Choose Coinlye?</h2>
+          <h2 className="heading_text mb-0">Why You Choose KickCat Coin?</h2>
         </div>
 
         <div className="row m-lg-0 justify-content-center">

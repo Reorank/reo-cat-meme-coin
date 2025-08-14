@@ -11,7 +11,7 @@ const SolutionSection = () => {
             <div className="container">
 
                 <div className="ico_heading_block text-center" data-aos="fade-up" data-aos-duration="600">
-                    <h2 className="heading_text mb-0">Coinlye ICO Problem & Solution</h2>
+                    <h2 className="heading_text mb-0">KickCat Coin Problem & Solution</h2>
                 </div>
 
                 <div
@@ -27,7 +27,7 @@ const SolutionSection = () => {
                                 <span className="icon">
                                     <Image src={sIcon1} alt="Icon Man With Question" />
                                 </span>
-                                <span className="text">ICO Problem</span>
+                                <span className="text">KickCat Coin Problem</span>
                             </h3>
                             <ul className="iconlist_block unordered_list_block">
                                 {[
@@ -37,7 +37,7 @@ const SolutionSection = () => {
                                     },
                                     {
                                         label: 'Impact of the Problem.',
-                                        info: 'The problem in an ICO attracts investor confidence.',
+                                        info: 'The problem in an KickCat Coin attracts investor confidence.',
                                     },
                                     {
                                         label: 'Reduced Investment.',
@@ -67,13 +67,13 @@ const SolutionSection = () => {
                                 <span className="icon">
                                     <Image src={sIcon2} alt="Icon Bulb" />
                                 </span>
-                                <span className="text">ICO Solution</span>
+                                <span className="text">KickCat Coin Solution</span>
                             </h3>
                             <ul className="iconlist_block unordered_list_block">
                                 {[
                                     {
                                         label: 'Introduce the Project and Token.',
-                                        info: 'Our ICO Vision is building a Decentralized Ad Network.',
+                                        info: 'Our KickCat Coin Vision is building a Decentralized Ad Network.',
                                     },
                                     {
                                         label: 'Key Features or Innovations.',

@@ -13,7 +13,7 @@ const menus = [
         submenu: [
             {
                 id: 11,
-                title: 'Coinlye ICO',
+                title: 'KickCat',
                 link: '/home_ico'
             },
 

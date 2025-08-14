@@ -14,7 +14,7 @@ const Hero = () => {
             <div className="container">
 
                 <h1 className="hero_title" data-aos="fade-up" data-aos-duration="800">
-                    🐱 Cat Coin Presale - FIFA Football Funds & Scholarships
+                    KickCat Coin Presale - Soccer Funds & Scholarships
                 </h1>
 
                 <ul className="btns_group unordered_list justify-content-center p-0" data-aos="fade-up" data-aos-duration="800" data-aos-delay="100">
@@ -74,7 +74,7 @@ const Hero = () => {
                     <div className="ico_countdown_progress_box">
                         <div className="ico_heading_block text-center mb-0">
                             <h2 className="highlight_title mb-0">
-                                Start buying Cat Coin now! 🐱⚽
+                                Start buying KickCat Coin now!
                             </h2>
                         </div>
                         <div className='countdownbg' style={{ backgroundImage: `url(${'/images/shapes/shape_bg_ico_countdown.svg'})` }}>
@@ -90,7 +90,7 @@ const Hero = () => {
                                 <div className="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                             <ul className="progress_value unordered_list justify-content-between">
-                                <li>Minimum Purchase: 1000 CAT</li>
+                                <li>Minimum Purchase: 1000 KickCat</li>
                                 <li>Raised so far: $450,000</li>
                             </ul>
                         </div>

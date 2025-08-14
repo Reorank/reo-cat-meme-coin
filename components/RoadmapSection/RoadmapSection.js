@@ -25,11 +25,11 @@ const roadmapData = [
     ]
   },
   {
-    badge: "Q3 - Q2 2025",
-    title: "ICO Launch",
+    badge: "Q1 - Q9 2025",
+    title: "KickCat Coin Launch",
     items: [
       "Strong community interest and early investments that build momentum.",
-      "Achieving target funding goals during the ICO period, project viability.",
+      "Achieving target funding goals during the KickCat Coin Presale period, project viability.",
       "Successful listing on major exchanges, increasing liquidity and user access.",
       "Key feature milestones achieved."
     ]

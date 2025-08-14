@@ -35,7 +35,7 @@ const FeaturesSection = () => {
                     {/* Left Side - Features List */}
                     <div className="col-lg-5">
                         <div className="ico_heading_block" data-aos="fade-up" data-aos-duration="600">
-                            <h2 className="heading_text mb-0">Why Coinlye is Worth Buying Today?</h2>
+                            <h2 className="heading_text mb-0">Why KickCat Coin is Worth Buying Today?</h2>
                         </div>
                         <ul className="ico_features_group unordered_list_block">
                             {features.map((feature, index) => (
@@ -69,10 +69,10 @@ const FeaturesSection = () => {
                                 </div>
                             </li>
                             <li>
-                                <h4 className="heading_text">Quantity Coinlye</h4>
+                                <h4 className="heading_text">Quantity KickCat Coin</h4>
                                 <div className="investment_value">
                                     <span className="odometer" data-count="60000"><CountUp end={6000} enableScrollSpy scrollSpyOnce/></span>
-                                    <span>Coinlye</span>
+                                    <span>KickCat Coin</span>
                                 </div>
                             </li>
                         </ul>
@@ -80,7 +80,7 @@ const FeaturesSection = () => {
                         {/* Coin Purchase Price */}
                         <div className="ico_coin_purchase_price" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
                             <p className="purchase_price_rate mb-0 text-secondary">
-                                Purchase Price Coinlye <strong>0.166$</strong>
+                                Purchase Price KickCat Coin <strong>0.166$</strong>
                             </p>
                             <div className="chart_image">
                                 <Image src={shape1} alt="Shape Chart" />

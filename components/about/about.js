@@ -12,17 +12,17 @@ const About = (props) => {
                     <div className="col-lg-6">
                         <div className="ico_heading_block" data-aos="fade-up" data-aos-duration="600">
                             <h2 className="heading_text mb-0">
-                                🐱 Introducing Cat Coin - Football's Future
+                                Introducing KickCat Coin - Football's Future
                             </h2>
                         </div>
                         <ul className="about_ico_block unordered_list_block">
                             <li data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
 
                                 <h3 className="title_text">
-                                    What is Cat Coin?
+                                    What is KickCat Coin?
                                 </h3>
                                 <p className="info_description mb-0">
-                                    Cat Coin is a revolutionary meme coin that combines the fun of cat culture with real-world impact through FIFA football funding and scholarships. It's not just a meme - it's a movement that supports the beautiful game and young talent worldwide.
+                                    KickCat Coin is a revolutionary meme coin that combines the fun of cat culture with real-world impact through FIFA football funding and scholarships. It's not just a meme - it's a movement that supports the beautiful game and young talent worldwide.
                                 </p>
                             </li>
                             <li data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
@@ -31,16 +31,16 @@ const About = (props) => {
                                     Why Football Funding?
                                 </h3>
                                 <p className="info_description mb-0">
-                                    Football is the world's most popular sport, but many talented players lack access to proper training, equipment, and opportunities. Cat Coin creates a sustainable funding mechanism for FIFA programs, youth academies, and scholarships that democratize access to the beautiful game.
+                                    Football is the world's most popular sport, but many talented players lack access to proper training, equipment, and opportunities. KickCat Coin creates a sustainable funding mechanism for FIFA programs, youth academies, and scholarships that democratize access to the beautiful game.
                                 </p>
                             </li>
                             <li data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
 
                                 <h3 className="title_text">
-                                    Why Cat Coin?
+                                    Why KickCat Coin?
                                 </h3>
                                 <p className="info_description mb-0">
-                                    Cat Coin combines the viral nature of meme coins with real-world utility. By funding football programs and scholarships, it creates lasting value beyond speculation. Every transaction contributes to developing the next generation of football stars while building a strong, engaged community.
+                                    KickCat Coin combines the viral nature of meme coins with real-world utility. By funding football programs and scholarships, it creates lasting value beyond speculation. Every transaction contributes to developing the next generation of football stars while building a strong, engaged community.
                                 </p>
                             </li>
                         </ul>

@@ -20,7 +20,7 @@ const tokenomicsData = [
 
 
 const featuresData = [
-    { icon: icon1, title: 'Total Token Supply', description: '1,000,000,000 CAT' },
+    { icon: icon1, title: 'Total Token Supply', description: '1,000,000,000 KICKCAT' },
     { icon: icon2, title: 'Token Network', description: 'BSC (Binance Smart Chain)' },
     { icon: icon3, title: 'Presale Price', description: '0.0001 BNB' },
     { icon: icon4, title: 'Launch Price Target', description: '0.0005 BNB' },
@@ -36,7 +36,7 @@ const TokenomicsSection = () => {
         <section id="id_ico_tokenomics_section" className="ico_tokenomics_section section_space pb-0">
             <div className="container">
                 <div className="ico_heading_block text-center" data-aos="fade-up" data-aos-duration="600">
-                    <h2 className="heading_text mb-0">🐱 Cat Coin Tokenomics</h2>
+                    <h2 className="heading_text mb-0">KickCat Coin Tokenomics</h2>
                 </div>
 
                 <div className="row align-items-center">
@@ -91,7 +91,7 @@ const TokenomicsSection = () => {
                                     <path d="M1.44252 9.28834L9.48641 1.16784C9.59281 1.06043 9.73772 1 9.88891 1H13.0081C13.5116 1 13.7649 1.60758 13.4106 1.96525L5.36672 10.0858C5.26033 10.1932 5.11541 10.2536 4.96422 10.2536H1.84502C1.34158 10.2536 1.08822 9.64601 1.44252 9.28834Z" />
                                 </svg>
                             </span>
-                                                            <span className="btn_label">Buy Cat Coin Now</span>
+                                                            <span className="btn_label">Buy KickCat Coin Now</span>
                             <span className="btn_icon_right">
                                 <small className="dot_top"></small>
                                 <small className="dot_bottom"></small>

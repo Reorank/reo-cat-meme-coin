@@ -14,25 +14,25 @@ const FAQSection = () => {
 
     // Array of FAQ questions
     const faqQuestions = [
-        "What is CoinLye ICO?",
-        "How can I participate in the CoinLye ICO?",
-        "What are the benefits of investing in CoinLye ICO?",
-        "What is the total supply of CoinLye tokens?",
-        "Can I sell my tokens after the ICO?",
+        "What is KickCat Coin?",
+        "How can I participate in the KickCat Coin Presale?",
+        "What are the benefits of investing in KickCat Coin?",
+        "What is the total supply of KickCat Coin?",
+        "Can I sell my KickCat Coin after the Presale?",
     ];
 
     // Array of ICO questions
     const icoQuestions = [
-        "What is the CoinLye ICO?",
-        "How do I register for the CoinLye ICO?",
-        "What is the CoinLye token?",
-        "How can I purchase CoinLye tokens?",
-        "What are the tokenomics of CoinLye tokens?",
+        "What is the KickCat Coin Presale?",
+        "How do I register for the KickCat Coin Presale?",
+        "What is the KickCat Coin?",
+        "How can I purchase KickCat Coin?",
+        "What are the tokenomics of KickCat Coin?",
     ];
 
     // Array of Token Sales questions
     const tokenSalesQuestions = [
-        "What is the price of CoinLye tokens?",
+        "What is the price of KickCat Coin?",
         "When will the token sale begin?",
         "Can I buy tokens during the sale using cryptocurrency?",
         "What is the hard cap for the token sale?",
@@ -41,10 +41,10 @@ const FAQSection = () => {
 
     // Array of Clients Related questions
     const clientsRelatedQuestions = [
-        "How can I contact CoinLye for support?",
-        "What services does CoinLye provide for clients?",
-        "How secure is the CoinLye platform for clients?",
-        "What is the refund policy for CoinLye clients?",
+        "How can I contact KickCat Coin for support?",
+        "What services does KickCat Coin provide for clients?",
+        "How secure is the KickCat Coin platform for clients?",
+        "What is the refund policy for KickCat Coin clients?",
         "Are there any client bonuses for token holders?",
     ];
 
@@ -130,7 +130,7 @@ const FAQSection = () => {
                                             <div id={collapseId} className={`accordion-collapse collapse ${activeAccordion === collapseId ? "show" : ""}`} data-bs-parent="#accordion_1">
                                                 <div className="accordion-body">
                                                     <p>
-                                                        You can participate in the CoinLye ICO, simply register on our platform, complete the KYC (Know Your Customer) process, and follow the instructions to purchase tokens during the ICO period, Once registered buy tokens with secure payments.
+                                                        You can participate in the KickCat Coin Presale, simply register on our platform, complete the KYC (Know Your Customer) process, and follow the instructions to purchase tokens during the Presale period, Once registered buy tokens with secure payments.
                                                     </p>
                                                     <ul className="iconlist_block unordered_list_block">
                                                         <li>
@@ -186,7 +186,7 @@ const FAQSection = () => {
                                             <div id={collapseId} className={`accordion-collapse collapse ${activeAccordion === collapseId ? "show" : ""}`} data-bs-parent="#accordion_2">
                                                 <div className="accordion-body">
                                                     <p>
-                                                        CoinLye ICO is a unique opportunity to purchase tokens at a discounted price before the public sale. You need to complete KYC to ensure your security and follow the instructions to purchase tokens securely.
+                                                        KickCat Coin Presale is a unique opportunity to purchase tokens at a discounted price before the public sale. You need to complete KYC to ensure your security and follow the instructions to purchase tokens securely.
                                                     </p>
                                                 </div>
                                             </div>
@@ -262,7 +262,7 @@ const FAQSection = () => {
                                             <div id={collapseId} className={`accordion-collapse collapse ${activeAccordion === collapseId ? "show" : ""}`} data-bs-parent="#accordion_4">
                                                 <div className="accordion-body">
                                                     <p>
-                                                        CoinLye is committed to offering a seamless experience for clients. We provide customer support 24/7, ensuring a safe and secure platform with transparent refund policies.
+                                                        KickCat Coin is committed to offering a seamless experience for clients. We provide customer support 24/7, ensuring a safe and secure platform with transparent refund policies.
                                                     </p>
                                                 </div>
                                             </div>
