@@ -4,7 +4,7 @@ import icon1 from '../../icons/icon_token_supply.svg';
 import icon2 from '../../icons/icon_token_network.svg';
 import icon3 from '../../icons/icon_estimated_launch_price.svg';
 import icon4 from '../../icons/icon_expected_ripple_price.svg';
-import mainimg from '/public/images/shapes/ico_coins_image.svg';
+import mainimg from '/public/images/shapes/ico_coins_image.webp';
 import Link from 'next/link';
 import Image from 'next/image';
 
